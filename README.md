@@ -13,7 +13,7 @@ The following are possible topics for exercises uploaded in JSON file format:
 - Functional Programming
 - Intermediate Algorithm Scripting
 
-In this section you will create the following small JavaScript programs:
+In this section, there will be the following small JavaScript programs:
 
 1. Palindrome Checker
 2. Roman Numeral Converter
