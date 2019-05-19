@@ -1,0 +1,1 @@
+{"index.js":"function Bird() {\n let weight = 15; // private instnace variable\n this.getWeight = function() { // local method with composition\n   return weight;\n }; \n\n}\n"}
