@@ -1,0 +1,1 @@
+{"index.js":"function sentensify(str) {\n  // Add your code below this line\n  var combineArr = str.split(/\\W/); // non word characters match\n  console.log(combineArr);\n  \n  console.log(combineArr.join(\" \"))\n  return combineArr.join(\" \")\n  // Add your code above this line\n}\nsentensify(\"May-the-force-be-with-you\");"}
